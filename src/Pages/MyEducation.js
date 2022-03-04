@@ -21,6 +21,9 @@ function MyEducation() {
         title={"Bac Sience Math A "}
         school={"Lycée Technique FES"}
       />
+      <Title title="Experience" span="Experience" />
+      <Education date={"2015-now"} title={"Freelance web developer"} />
+      <Education date={"2019-2022"} title={"Full-stack Developer at Hubecom"} />
     </div>
   );
 }

@@ -33,7 +33,7 @@ function ImageSection() {
           </div>
         </div>
         <form action="/nouhailaBjaghou.pdf" method="get">
-          <button className="btn">Downoald CV</button>
+          <button className="btn">Download CV</button>
         </form>
       </div>
     </div>

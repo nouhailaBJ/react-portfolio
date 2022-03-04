@@ -30,12 +30,12 @@ function HomePage() {
             wrapper="span"
           />
           <p className="h-sub-text">
-            I'm currently a student at 1337, And full-stack Web developer with 3
-            years of experience and working as a freelancer
+            I am currently a student of the computer engineering at 1337, And
+            full-stack Web developer with 5 years of experience
           </p>
           <div class="btn-home">
-            <a href="/nouhailaBjaghou.pdf" className="btn">
-              Downoald CV
+            <a href="/nouhailaBjaghou.pdf" className="btn" target="_blank">
+              Download CV
             </a>
           </div>
           <div className="icons">
